@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "yam:blocks/nonto_log_top",
+        "side": "yam:blocks/nonto_log"
+    }
+}

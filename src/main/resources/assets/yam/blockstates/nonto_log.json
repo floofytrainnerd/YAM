@@ -1,0 +1,10 @@
+  
+{
+    "forge_marker": 1,
+    "variants": {
+        "axis=y":  { "model": "yam:nonto_log" },
+        "axis=z":   { "model": "yam:nonto_log", "x": 90 },
+        "axis=x":   { "model": "yam:nonto_log", "x": 90, "y": 90 },
+        "axis=none": { "model": "yam:nonto_log" }
+    }
+}

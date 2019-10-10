@@ -1,0 +1,14 @@
+
+{
+    "forge_marker": 1,
+     "defaults": {
+        "model": "yam:nonto_sapling",
+        "uvlock": true
+    },
+    "variants": {
+        "normal": [{ }],
+        "inventory": [{ }],
+	    "stage=0":[{ }],
+	    "stage=1":[{ }]
+    }
+}

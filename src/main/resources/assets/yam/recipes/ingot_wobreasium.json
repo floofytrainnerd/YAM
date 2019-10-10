@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "yam:block_wobreasium"
+		}
+	],
+	"result": {
+		"item": "yam:ingot_wobreasium",
+		"count": 9
+	}
+}

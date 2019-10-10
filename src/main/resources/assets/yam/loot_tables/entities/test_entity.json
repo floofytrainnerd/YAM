@@ -1,0 +1,21 @@
+{
+  "pools": [
+    {
+      "name": "yam:test_entity",
+      "conditions": [
+        {
+          "condition": "killed_by_player"
+        },
+
+      ],
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "yam:tab_placeholder",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}
