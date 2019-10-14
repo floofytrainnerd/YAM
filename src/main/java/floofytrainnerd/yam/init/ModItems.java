@@ -14,7 +14,7 @@ public class ModItems {
 	//public static ItemBase  = new ItemBase("").setCreativeTab(CreativeTabs.MATERIALS);
 	
 	public static ItemBase itemTabPlaceholder = new ItemBase("tab_placeholder");
-	public static ItemBase ingotWobreasium = new ItemBase("ingot_wobreasium");
+	public static ItemBase ingotWobreasium = new ItemBase("ingot_wobreasium").setCreativeTab(Yam.creativeTab);;
 	public static ItemPlayerPokeball playerPokeball = new ItemPlayerPokeball();
     
     public static void register(IForgeRegistry<Item> registry) {

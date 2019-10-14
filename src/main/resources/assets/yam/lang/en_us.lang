@@ -1,6 +1,18 @@
 # Items
 item.ingot_wobreasium.name=Wobreasium Ingot
+item.player_pokeball.name=Player Pokeball
+
 
 # Blocks
-block.block_wobreasium.name=Block of Wobreasium
-block.ore_wobreasium.name=Wobreasium Ore
+tile.block_wobreasium.name=Block of Wobreasium
+tile.ore_wobreasium.name=Wobreasium Ore
+tile.nonto_log.name=Nonto Wood
+tile.nonto_planks.name=Nonto Wood Planks
+tile.nonto_leaves.name=Nonto Leaves
+tile.nonto_sapling.name=Nonto Sapling
+tile.test_block_again.name
+
+
+# Entities
+entity.AlphaPigZombie.name=Zombie Pigman
+entity.TestEntity.name=entity
